@@ -397,6 +397,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content h2 {
+    color: #503e2c;
     margin: 0;
     font-size: 3em;
 }
@@ -407,6 +408,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
+    color: #503e2c;
 }
 
 .portfolio-modal .close-modal {
@@ -444,8 +446,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+/* Some of my manual changes */
 .navbar-default {
-  background-color:#503e2c;
+  background-color: #503e2c;
   border-color: #e7e7e7;
 
 }
@@ -475,4 +478,8 @@ footer .footer-below {
 .btn {
   background-color: #99142e;
   border-color: #99142e;
+}
+
+.portfolio-modal p {
+  color: #503e2c;
 }
